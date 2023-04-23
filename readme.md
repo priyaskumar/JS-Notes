@@ -2,13 +2,13 @@
 
 # CONTENTS
 
-- Introduction
+- [Introduction](https://github.com/priyaskumar/JS-Notes#introduction)
 
-- Objects and Arrays
+- [Objects and Arrays](https://github.com/priyaskumar/JS-Notes/blob/main/01.%20Objects%20and%20Arrays.md#objects-and-arrays)
 
-- Functions
+- [Functions](https://github.com/priyaskumar/JS-Notes/blob/main/02.%20Functions.md)
 
-- Algorithms
+- [Algorithms]()
 
 # Introduction
 
@@ -201,6 +201,10 @@
     ```
 
 ### Pass by value and Pass by reference
+
+- Pass by value : copy of the object is sent 
+
+- Pass by reference : Mutates the same object as it is
 
     ```js
     const num = 26
