@@ -8,7 +8,7 @@
 
 - [Functions](https://github.com/priyaskumar/JS-Notes/blob/main/02.%20Functions.md)
 
-- [Algorithms]()
+- [Algorithms](https://github.com/priyaskumar/JS-Notes/blob/main/03.%20Algorithms.md)
 
 # Introduction
 
